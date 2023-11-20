@@ -1,3 +1,9 @@
+/*
+ * Author: Ike Pawsat - pawsat@bc.edu
+ * Simple Binary Search Tree with multiple functions.
+ * Really just attempting to show proficiency in Java.
+*/
+
 import java.util.ArrayList;
 import java.util.List;
 
